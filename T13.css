@@ -1,0 +1,33 @@
+
+.aqua{
+    display: flex;
+    background-color: aqua;
+    border:1px solid green;  
+}
+ul{
+    margin-top: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    background-color: bisque;
+    width: 22.5%;
+    height: 80px;
+    vertical-align: middle;
+}
+.text{
+    background-color: darkgrey;
+}
+img{
+    float: right;
+    height: 600px;
+    width: 650px;
+}
+.other{
+    clear: right;
+}
+@media screen and (max-width: 1200px) {
+img{
+    width: 200px;
+    height: 175px;
+}
+    
+}

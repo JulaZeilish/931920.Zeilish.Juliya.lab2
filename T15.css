@@ -1,0 +1,14 @@
+*{
+    margin:0;
+}
+div{
+    height: 100px;
+    width: 190px;
+    background-color: aquamarine;
+    display:inline-block;
+    margin: 15px;
+}
+footer{
+    margin: 5px;
+    background-color: bisque;
+}

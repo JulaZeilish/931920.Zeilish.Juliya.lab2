@@ -1,0 +1,34 @@
+
+.aqua{
+    display: flex;
+    background-color: aqua;
+    border:1px solid green;  
+}
+ul{
+    margin-top: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    background-color: bisque;
+    width: 22.5%;
+    height: 80px;
+    vertical-align: middle;
+}
+.text{
+    background-color: darkgrey;
+}
+@media screen and (max-width: 459px) {
+    .aqua{
+        flex-direction: column;
+    }
+    ul{
+        margin-top: 15px;
+        padding-left: 50px;
+        /* width: 381px; */
+        width: auto;
+        height: 20px;
+    }
+    li{
+        display: inline-block;
+    }
+    
+}

@@ -1,0 +1,49 @@
+*
+{
+    margin:0;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 25.15px;
+    word-spacing: -1px;
+}
+
+header
+{
+    background-color: #EAEAEA;
+    height: 65px;
+    padding: 10px;
+}
+span
+{
+    font-style: italic;
+    color:red;
+}
+.text
+{
+    overflow: hidden;
+    font-size:16px;
+}
+.left
+{
+    background-color: #c8fc98;
+    float:left;
+    width: 25%;
+    padding: 10px;
+    margin-right: 10px;
+}
+.right
+{
+    margin-left:5px ;
+    float:right;
+    width: 200px;
+    background-color: #FDE95E;
+    padding:10px;
+    text-align: left;
+}
+footer
+{
+    background-color: black;
+    text-align: center;
+    padding:5px;
+    margin-bottom:0px;
+    
+}

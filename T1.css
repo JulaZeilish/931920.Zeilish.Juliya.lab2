@@ -1,0 +1,38 @@
+*
+{
+    margin: 0px;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+header
+{
+    background-color: #EAEAEA;
+    font-size: 30px;
+    height: 60px;
+    padding: 10px;
+}
+.cols
+{
+     overflow: hidden; 
+}
+.first_col
+{
+    font-size: 16px;
+	float:left;
+    width: 200px;
+    background-color: #c8fc98;
+    padding: 5px ;
+    line-height: 25.58px;
+    margin-right: 15px;
+}
+.second_col
+{
+    line-height: 23px;
+    padding-left: 200px;
+}
+footer
+{  
+    background-color: black;
+    text-align: center;
+    padding:9px
+}

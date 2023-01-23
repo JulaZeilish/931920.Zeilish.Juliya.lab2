@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.float{
+    margin: 20px 0px 20px 20px;
+    width: 200px;
+    height: 100px;
+    float: left;
+    background-color: aquamarine;
+}
+footer{
+    clear: left;
+    margin-left: 5px;
+    background-color: bisque;
+}

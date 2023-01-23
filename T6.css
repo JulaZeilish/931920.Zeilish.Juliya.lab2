@@ -1,0 +1,12 @@
+.first_block{
+width: 500px;
+margin:0 auto;
+margin-bottom: 20px;
+margin-top: 20px
+}
+.secong_block{
+margin:0 auto;
+width: 375px;
+border:10px solid blue;
+padding:40px 55px 40px 55px;
+}
